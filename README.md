@@ -10,3 +10,4 @@ rest api using Eclipse Jersey framework(java)
 
 <h1>Requirements</h1>
 <h3>MySQL<h3/>
+<h3>Jercy<h3/>
